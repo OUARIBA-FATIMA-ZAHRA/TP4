@@ -9,7 +9,16 @@ TP 4 : Héritage avec Hibernate - Stratégies de Mapping
 <img width="911" height="753" alt="Capture d&#39;écran 2026-02-23 213851" src="https://github.com/user-attachments/assets/32106527-81ee-4490-816e-2f41a76ffed0" />
 <img width="964" height="619" alt="Capture d&#39;écran 2026-02-23 213903" src="https://github.com/user-attachments/assets/dff73e20-112e-4f14-9cf3-8d89761cb989" />
 <img width="883" height="525" alt="Capture d&#39;écran 2026-02-23 213908" src="https://github.com/user-attachments/assets/38691246-b4ce-4eb2-bfcc-6165ae3b3a41" />
-# Analyse des relations
+# Analyse des relations :
+
 Type de relation : Héritage
-# Annotations utilisées et leur rôle
-@Entity: 
+
+# Annotations utilisées :
+
+@Entity: Indique que la classe sera mappée en table dans la base
+
+@Inheritance: Définir la stratégie d’héritage (SINGLE_TABLE, JOINED, TABLE_PER_CLASS)
+
+@DiscriminatorColumn / @DiscriminatorValue: Utilisé pour SINGLE_TABLE pour différencier les sous-classes
+
+@Id, @GeneratedValue: Clé primaire auto-générée
