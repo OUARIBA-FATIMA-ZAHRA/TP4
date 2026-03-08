@@ -6,8 +6,6 @@
 <img width="1767" height="924" alt="Capture d&#39;écran 2026-02-23 213755" src="https://github.com/user-attachments/assets/929be772-eed1-483f-855d-8a3eed8bf6f3" />
 <img width="1216" height="923" alt="Capture d&#39;écran 2026-02-23 213805" src="https://github.com/user-attachments/assets/dc208cdf-774b-4771-a0f8-23d8ef0cadb5" />
 <img width="1866" height="902" alt="Capture d&#39;écran 2026-02-23 213826" src="https://github.com/user-attachments/assets/77e33073-30ca-4ff2-a9e7-906ed4bcf2b9" />
-<img width="911" height="753" alt="Capture d&#39;écran 2026-02-23 213851" src="https://github.com/user-attachments/assets/32106527-81ee-4490-816e-2f41a76ffed0" />
-<img width="964" height="619" alt="Capture d&#39;écran 2026-02-23 213903" src="https://github.com/user-attachments/assets/dff73e20-112e-4f14-9cf3-8d89761cb989" />
 
 ## Résultat d’exécution
 
@@ -16,7 +14,11 @@ L’application a été exécutée avec succès en utilisant Hibernate ORM et la
 Au démarrage, Hibernate a automatiquement créé les tables liées aux entités du projet (Employe, Manager, Developpeur, Livre, Electronique et Vehicule) pour démontrer le concept d’héritage.
 
 
+<img width="911" height="753" alt="Capture d&#39;écran 2026-02-23 213851" src="https://github.com/user-attachments/assets/32106527-81ee-4490-816e-2f41a76ffed0" />
+<img width="964" height="619" alt="Capture d&#39;écran 2026-02-23 213903" src="https://github.com/user-attachments/assets/dff73e20-112e-4f14-9cf3-8d89761cb989" />
 <img width="883" height="525" alt="Capture d&#39;écran 2026-02-23 213908" src="https://github.com/user-attachments/assets/38691246-b4ce-4eb2-bfcc-6165ae3b3a41" />
+
+
 # Analyse des relations :
 
 Type de relation : Héritage
